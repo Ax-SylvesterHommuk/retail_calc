@@ -1,5 +1,5 @@
 x = 10
 
 while x > 0:
-    print("Amogus!")
+    print("Hello World!")
     x -= 1
